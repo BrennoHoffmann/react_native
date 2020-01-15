@@ -3,8 +3,12 @@
 
 pasta backend:
 
-yarn init -y
-yarn add express
-yarn add nodemon -D
-yarn add mongoose
-yarn add axios
+1 - yarn init -y;
+
+2 - yarn add express;
+
+3 - yarn add nodemon -D;
+
+4 - yarn add mongoose;
+
+5 - yarn add axios;
