@@ -12,3 +12,5 @@ pasta backend:
 4 - yarn add mongoose;
 
 5 - yarn add axios;
+
+6 - yarn add cors;
